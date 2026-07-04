@@ -1,5 +1,6 @@
 def add_numbers(a, b):
     """Add two numbers and return the result."""
+    """Ädding comment1"."""
     return a + b
 
 
