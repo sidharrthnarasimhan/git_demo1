@@ -3,6 +3,7 @@ def add_numbers(a, b):
     """Adding comment 3"""
     """Adding comment2."""
     """Ädding comment1"."""
+    """Adding comment1""""
     return a + b
 
 
